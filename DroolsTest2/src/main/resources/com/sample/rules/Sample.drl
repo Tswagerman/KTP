@@ -1,0 +1,17 @@
+package com.sample.rules
+ 
+import com.sample.DroolsTest.Recipe;
+ 
+rule ""
+    when
+        m : Recipe()
+    then
+        
+end
+
+rule "GoodBye"
+    when
+        
+    then
+        
+end
